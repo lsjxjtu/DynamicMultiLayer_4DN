@@ -8,3 +8,5 @@ Sijia Liu, Pin-Yu Chen, Alfred Hero, Indika Rajapakse
 bioRxiv 268318; doi: https://doi.org/10.1101/268318
 
 https://www.biorxiv.org/content/early/2018/02/20/268318
+
+For questions, please contact lsjxjtu@gmail.com
